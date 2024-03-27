@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../My project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "My project.sln",
+		"liveServer.settings.multiRootWorkspaceName": "web design course clg"
+	}
+}
